@@ -1,0 +1,16 @@
+.main{
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    flex-direction: column;
+    margin-left: 3vw;
+}
+
+.cdn-starter{
+    display: flex;
+    flex-direction: row;
+
+}
+.cdn-main{
+    display: flex;
+    flex-direction: column;
+}
